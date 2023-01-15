@@ -1,0 +1,19 @@
+.productId{
+  margin: 0 auto;
+  max-width: 1200px;
+}
+.productId__home:hover{
+  color: var(--color-red);
+}
+.productId__path{
+  margin: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+.productId__point{
+  width: 5px;
+  height: 5px;
+  background-color: var(--color-red);
+  border-radius: 50%;
+}
